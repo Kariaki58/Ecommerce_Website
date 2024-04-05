@@ -1,6 +1,6 @@
 ## Nike Website landing page clone
 
-[https://kariaki-nike-landing-page.netlify.app/](view live)
+[view live](https://kariaki-nike-landing-page.netlify.app/)
 
 ## Technology
 
