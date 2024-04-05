@@ -1,4 +1,7 @@
 ## Nike Website landing page clone
+
+[https://kariaki-nike-landing-page.netlify.app/](view live)
+
 ## Technology
 
 - Tailwindcss
