@@ -9,7 +9,7 @@
 
 for this to work make sure you install tailwindcss
 
-[https://tailwindcss.com/docs/installation](tailwind installation)
+[tailwind installation](https://tailwindcss.com/docs/installation)
 
 ```
 git clone <repo>
