@@ -17,5 +17,6 @@ for this to work make sure you install tailwindcss
 ```
 git clone <repo>
 cd Ecommerce_Website
+npm install
 npm run dev
 ```
