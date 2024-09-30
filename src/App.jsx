@@ -7,28 +7,28 @@ import Nav from './components/Nav';
 const App = () => (
   <main className="relative">
     <Nav/>
-    <section className="xl:padding-l wide:padding-r padding-b">
+    <section className="p-4">
       <Hero/>
     </section>
-    <section className="padding">
+    <section className="p-4">
       <PopularProduct/>
     </section>
-    <section className="padding">
+    <section className="p-4">
       <SuperQuality/>
     </section>
-    <section className="padding-x py-10">
+    <section className="p-4">
       <Services/>
     </section>
-    <section className="padding">
+    <section className="p-4">
       <SpecialOffer/>
     </section>
-    <section className="bg-pale-blue padding">
+    <section className="bg-pale-blue p-4">
       <CustomerReviews/>
     </section>
-    <section className="padding-x sm:py-32 py-16 w-full">
+    <section className="padding-x p-4 w-full">
       <Subscribe/>
     </section>
-    <section className="bg-black padding-x padding-t pb-8">
+    <section className="bg-black p-4 pb-8">
       <Footer/>
     </section>
   </main>
